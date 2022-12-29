@@ -1,0 +1,96 @@
+
+body{
+    margin: 0;
+    background-color: #f4f0e5;
+    font-family: "Tahoma";
+}
+ /*Aqui estilizamos a secao e 1 secao*/
+.secao{
+    width: 700;
+    margin: 20px auto;
+    text-align: center;
+    
+}
+
+.imagem-logotipo{
+    width: 200px;
+}
+
+a{
+    margin: 0 10px;
+    color: #542f0c;
+}
+
+/*Aqui estilizamos a todas outras secoes*/
+
+h1{
+    font-size: 28px;
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    border-top: 1px solid #de8e37;
+   
+   
+}
+h2{
+    font-weight:normal;
+    color: #de8e37;
+    margin-top: 10px;
+}
+
+.imagem-banner{
+    width: 700px;
+
+}
+
+.secao-destaque{
+    width: 700px;
+    background-color: #de8e37;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #fff;
+    
+}
+
+.secao-destaque h3{
+    font-size: 24px;
+}
+
+.secao-destaque h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.secao-destaque p{
+    width: 500px;
+    margin: 0 auto;
+    line-height: 30px;
+}
+.secao-linha{
+    width: 700px;
+}
+.secao-destaque img{
+    width: 400px;
+}
+
+span{
+    font-weight: bold;
+}
+
+div footer{
+   
+    font-size: 15px;
+    
+    
+    
+}
+.rodapé{
+    width: 700px;
+    border-top: 1px solid #de8e37;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-align: center;
+}
+
